@@ -100,3 +100,11 @@ You can customize it further by:
 - Adding more detailed setup instructions
 - Expanding the features list
 - Adding acknowledgments or credits
+
+Refferences:
+- Gemini
+- DeepSeek
+- Youtube
+- Github
+
+  
