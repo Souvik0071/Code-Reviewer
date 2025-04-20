@@ -30,7 +30,7 @@ function App() {
   async function reviewCode(){
     try {
       const response = await axios.post(
-        "https://code-reviewer-648r.onrender.com:3000/ai/get-review",
+        "https://code-reviewer-648r.onrender.com/ai/get-review",
         { code } // Send code in request body
       )
       setReview(response.data) // Update review with AI response
