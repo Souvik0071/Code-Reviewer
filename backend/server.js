@@ -5,7 +5,7 @@ require('dotenv').config();
 const app = require('./src/app');
 
 // Start the server and listen on port 3000
-app.listen("https://code-reviewer-648r.onrender.com", () => {
+app.listen(3000, () => {
     // Log message to confirm server is running
     console.log('Server is running on port 3000');
 });
